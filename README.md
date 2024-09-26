@@ -16,5 +16,4 @@ Um aplicativo simples de previsão do tempo que exibe informações meteorológi
 - **Previsão Semanal**: Exibe a previsão do tempo para os próximos dias.
 - **Campo de Pesquisa**: Permite que os usuários busquem informações sobre o clima em diferentes localidades.
 
-## Estrutura do Projeto
 
