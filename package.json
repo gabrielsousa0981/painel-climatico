@@ -1,0 +1,28 @@
+{
+  "name": "open-weather",
+  "version": "1.0.0",
+  "description": "Uma aplicação para previsão do tempo usando a API OpenWeather.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "weather",
+    "API",
+    "OpenWeather"
+  ],
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-trybe-fundamentals": "^1.1.1",
+    "nodemon": "^2.0.15"
+  }
+}
